@@ -4,8 +4,8 @@
 
 | التاريخ (UTC) | الفرع | Commit | تحميل |
 |---|---|---|---|
+| 2026-10-05 07:28 | dev | `dev-20261005072833-92f6ba7` | [تحميل APK](https://github.com/marty-system/marty-dev-builds/releases/download/dev-20261005072833-92f6ba7/marty-app.apk) |
 | 2026-10-04 12:04 | dev | `dev-20261004120406-a6e516e` | [تحميل APK](https://github.com/marty-system/marty-dev-builds/releases/download/dev-20261004120406-a6e516e/marty-app.apk) |
 | 2026-10-01 08:42 | dev | `dev-20261001084228-ff120f9` | [تحميل APK](https://github.com/marty-system/marty-dev-builds/releases/download/dev-20261001084228-ff120f9/marty-app.apk) |
 | 2026-09-30 10:24 | dev | `dev-20260930102402-92ae498` | [تحميل APK](https://github.com/marty-system/marty-dev-builds/releases/download/dev-20260930102402-92ae498/marty-app.apk) |
 | 2026-09-29 13:47 | dev | `dev-20260929134737-5e6b0b6` | [تحميل APK](https://github.com/marty-system/marty-dev-builds/releases/download/dev-20260929134737-5e6b0b6/marty-app.apk) |
-| 2026-09-28 13:31 | dev | `dev-20260928133103-11c73d4` | [تحميل APK](https://github.com/marty-system/marty-dev-builds/releases/download/dev-20260928133103-11c73d4/marty-app.apk) |
